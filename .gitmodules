@@ -1,0 +1,4 @@
+[submodule "historical_data"]
+	path = historical_data
+	url = git@github.com:the1des/historical_data.git
+	branch = main
